@@ -1,0 +1,7 @@
+"credit_scoring_env/" 
+"__pycache__/" 
+".dvc/" 
+"data/" 
+"mlruns/" 
+"*.pyc" 
+".DS_Store" 
