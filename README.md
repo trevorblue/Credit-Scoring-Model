@@ -8,6 +8,9 @@
 ![MLflow](https://img.shields.io/badge/MLflow-2.3+-orange.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Development-green.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-blueviolet.svg)
+![GPU Support](https://img.shields.io/badge/GPU-CUDA%2012+-purple.svg)
+![Status](https://img.shields.io/badge/Status-In%20Development-green.svg)
 
 **"Empowering SACCOs with transparent, fair, and accurate credit scoring"**
 
