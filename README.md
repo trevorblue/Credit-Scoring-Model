@@ -529,22 +529,10 @@ print(f"Disparate Impact Ratio: {disparate_impact:.3f}")
 
 ### Project Team
 
-- **Project Lead:** [Your Name]
-- **ML Engineer:** [Partner Name]
-- **Data Scientist:** [Team Member]
-- **DevOps Engineer:** [Team Member]
-
-### Academic Supervision
-
-- **Institution:** Strathclyde University
-- **Department:** Computer Science / Data Science
-- **Supervisor:** [Supervisor Name]
-
-### Contact
-
-- **Email:** [your.email@strath.ac.uk]
-- **GitHub:** [github.com/yourusername]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
+- **Project Lead:** ME
+- **ML Engineer:** ME
+- **Data Scientist:** ME
+- **DevOps Engineer:** ME
 
 ---
 
@@ -596,9 +584,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | Stage | Status | Completion Date |
 |-------|--------|----------------|
 | 1. Project Setup | ✅ Complete | Week 2 |
-| 2. Data Exploration | ✅ Complete | Week 3 |
-| 3. Data Preprocessing | ✅ Complete | Week 4 |
-| 4. Feature Engineering | 🔄 In Progress | Week 5 |
+| 2. Data Exploration |🔄 In Progress  | Week 3 |
+| 3. Data Preprocessing | ⏳ Pending | Week 4 |
+| 4. Feature Engineering | ⏳ Pending | Week 5 |
 | 5. Model Building | ⏳ Pending | Week 6-7 |
 | 6. Model Evaluation | ⏳ Pending | Week 8-9 |
 | 7. Deployment | ⏳ Pending | Week 10-12 |
@@ -617,7 +605,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **"Empowering SACCOs with transparent, fair, and accurate credit scoring"**
 
-Made with ❤️ by [Your Team Name]
+Made with ❤️ by ME ]
 
 [⬆ Back to Top](#-complete-credit-scoring-model-project)
 
